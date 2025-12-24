@@ -169,3 +169,15 @@ section #Info_Cont2 h3 {
 .hide {
   display: none;
 }
+
+#git{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+a{
+  text-decoration: none;
+}
